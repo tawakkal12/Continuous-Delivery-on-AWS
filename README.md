@@ -1,4 +1,4 @@
-# Project-8: Continuous Delivery on AWS
+Continuous Delivery on AWS
 
 [*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
